@@ -1,0 +1,29 @@
+.chose{
+    background-color: bisque;
+    
+    border-color: rgba(201, 16, 170, 0.493);
+    border-radius: 8px;
+    
+}
+.gender{
+    font-size: 20px;  
+}
+body{
+    /* background-color: rgb(68, 145, 146); */
+    font-size: large;
+}
+form{
+    border-color: crimson;
+    padding-left: 300px;
+}
+fieldset{
+    border-color: rgb(231, 1, 1);
+    width: 500px;
+    /* background-color: cadetblue;  */
+    border-radius: 10px;
+   
+}
+button{
+    border-radius: 8PX;
+    font-style: italic;
+}
